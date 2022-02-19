@@ -57,7 +57,7 @@ print("We need to put about", average_passengers_per_car, "in each car")
 
 # 附加练习
 print("附加练习：")
-my_name = "Wang Siyang"
+my_name = "EuthL"
 my_age = 21
 my_height = 163
 my_weight = 65
